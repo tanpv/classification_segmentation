@@ -1,0 +1,7 @@
+- understand article http://twin.sci-hub.tw/6654/5ab97858d308115934653d694d0685f6/al-masni2018.pdf
+	- dataset used http://www.eng.usf.edu/cvprg/Mammography/Database.html
+	- how to load data https://github.com/multinormal/ddsm
+- get dataset
+- try with method inside above article
+- try with other method
+- compare between method
