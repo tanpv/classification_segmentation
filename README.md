@@ -5,3 +5,12 @@
 - try with method inside above article
 - try with other method
 - compare between method
+- unet
+	- https://www.researchgate.net/post/Low_accuracy_of_object_detection_using_Mask-RCNN_model
+	- implementation of unet https://github.com/zhixuhao/unet
+
+- mask rcnn
+	- https://second-look.github.io/
+	
+- mammo
+	- 
